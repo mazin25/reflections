@@ -1,5 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
-  a directory with the name .git is created. the directory contain the files git uses to track the repository, this is important in order for git to operate.
+  A directory with the name .git is created. the directory contain the files git uses to track the repository, this is important in order for git to operate.
   
 
 How is the staging area different from the working directory and the repository?
