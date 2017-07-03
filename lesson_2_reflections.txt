@@ -10,8 +10,13 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  by adding files to the staging area and compare them the version in the working directory, then commit the changes per logical change.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  In case of exprimenting new features or making versions of the project for other puropse. It helps by organizing the code and make it more possible to take risk because it can be easly undo.
+
 
 How do the diagrams help you visualize the branch structure?
 
