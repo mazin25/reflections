@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+it's just easir to show the diffrences between the files rather than going 
+through all the files and compare them bit by a bit
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+  pros: -you can choose just the right time to save the changes.
+  cons: -since it is not clear when to make a commit, if you save too soon you might end up with a hard to manage history of commits, or a confusing version if commited too late.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+  because files are dependant on each other, if you make a change in one of 'em the other files should be changed too.
+
+
+How can you use the commands git log and git diff to view the history of files? 
+
+ fisrt use the log command to list the histroy of commits throughout the project life time, then expolre the commit history and note the commit you'd like to compare, by using the diff command followed by ids of two commit you'll get all the editing has been done in the peroid between the two commits, the add lines apear in green, and the deleted lines apear in red.
+
+How might using version control make you more confident to make changes that could break something?
+
+  because you alredy know that you can go back at anytime to a previous commit and compare with the recent commits easly, you can just undo or fix you bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  I want to use it in any project and try to play around with it to discover it's features.
+
