@@ -3,3 +3,7 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   because this may add unwanted changes to the code in the local machine that you are working on, which might cuze a conflict in the two versions.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+   it gives the ability to compare the changes in the loacal repository and the remote repositroy.
+
